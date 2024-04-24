@@ -1,0 +1,8 @@
+site_name: Artificial Intelligence!
+nav:
+    - Home: DL_01.md
+    - 4. Redes Neurais Artificiais: DL_04.md
+theme:
+    name: material
+
+repo_url: https://github.com/felipedepauli/so-deep
